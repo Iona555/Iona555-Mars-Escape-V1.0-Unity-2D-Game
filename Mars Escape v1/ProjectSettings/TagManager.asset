@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cosmonaut
+  - Maraptor
+  - Crate_Health
+  - Crate_JumpBoost
+  - Crate_Shield
+  - Crate_Flame
+  - Crate_Explosion
+  - Spacecraft
+  - Projectile
+  - Small_Platform
+  - Medium_Platform
+  - Large_Platform
+  - Specter
+  - Crawler
+  - CrateSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Character
+  - Pickup
+  - Detector
+  - Spawner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
